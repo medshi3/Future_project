@@ -206,7 +206,7 @@ class EscapePod(Scene):
 			return 'battle'
 			
 		else:
-			print "You have field"
+			print "You have failed"
 			return 'death'
 		
 class Map(object):
